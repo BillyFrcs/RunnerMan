@@ -1,3 +1,3 @@
 # Runner Man
 
-Simple Runner Game Developed with Unreal Engine 4.
+Simple Endless Runner game "Runner Man" Developed with Unreal Engine 4.
