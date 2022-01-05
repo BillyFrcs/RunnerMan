@@ -4,4 +4,4 @@
 
 Simple Endless Runner game "Runner Man" Developed with Unreal Engine 4 using C++ and Blueprint Visual Scripting.
 
->FYI the Material of the Character Player is using Default Chair Material form Unreal Engine LOL.
+>FYI the Material of the Player Character is using Default Chair Material form Unreal Engine LOL.
